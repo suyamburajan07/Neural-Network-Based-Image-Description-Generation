@@ -14,7 +14,7 @@ This project implements an intelligent image description system using **deep lea
 
 ---
 
-## Tech Stack
+## Technologies Used
 
 - **Python**
 - **TensorFlow / Keras**
